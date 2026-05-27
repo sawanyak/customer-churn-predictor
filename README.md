@@ -45,9 +45,9 @@ take proactive retention measures.
 
 ## 📂 Project Structure
 customer-churn-predictor/
-├── app.py                # Streamlit web application
-├── best_model.json       # Trained XGBoost model
-├── scaler_params.json    # Feature scaling parameters
-├── feature_names.json    # Feature names for input processing
-├── requirements.txt      # Python dependencies
-└── README.md             # Project documentation
+- app.py                # Streamlit web application
+- best_model.json       # Trained XGBoost model
+- scaler_params.json    # Feature scaling parameters
+- feature_names.json    # Feature names for input processing
+- requirements.txt      # Python dependencies
+- README.md             # Project documentation
